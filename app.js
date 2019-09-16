@@ -1,2 +1,2 @@
-let myTeam = 'Daniel and Zac';
+let myTeam = 'Zac and Daniel';
 console.log(myTeam);
